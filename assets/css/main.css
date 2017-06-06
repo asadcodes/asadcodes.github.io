@@ -1592,3 +1592,7 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+#email {
+	margin-bottom: 25px;
+}
